@@ -5,7 +5,7 @@ import CreatorCard from '../components/CreatorCard';
 import CaseStudyCard from '../components/CaseStudyCard';
 import Hero from '../components/Hero';
 import Stats from '../components/Stats';
-import FAQ from '../components/FAQ';
+import FAQ from '../components/faq';
 export default function Home() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-orange-50 to-white">
