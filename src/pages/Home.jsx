@@ -33,13 +33,13 @@ export default function Home() {
                 name="Rishuexe" 
                 followers="5.4K IG / 3.3K YT" 
                 niche="Comedy, Meme Skits"
-                image="/public/rishu.jpg"
+                image="/rishu.jpg"
               />
               <CreatorCard 
                 name="Vineswalaladka" 
                 followers="12.3K IG" 
                 niche="Voxpop, Public Humor"
-                image="/public/vines.jpg"
+                image="/vines.jpg"
               />
               <CreatorCard 
                 name="Coming Soon..." 
